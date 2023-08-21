@@ -44,7 +44,8 @@ Build the project for android and make sure you add all three scene is the below
   - Main Scene
   - About Scene
 Deploy the application to the Oculus Quest 2 device and launch it.
-You can watch a demo of AI IN Metaverse on [YouTube](https://youtu.be/glJzNh5hulY).
+
+- You can watch a demo of AI IN Metaverse on [YouTube](https://youtu.be/glJzNh5hulY).
 
 
 Additional Information:
