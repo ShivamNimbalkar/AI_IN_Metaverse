@@ -49,8 +49,7 @@ Additional Information:
 Feel free to add any additional information about the project in this section, such as credits to external libraries or contributors, licensing details, or acknowledgments for resources used in the project.
 
 Remember to keep this README updated as the project evolves, including any future improvements, bug fixes, or new features.
-Video:
-https://youtu.be/glJzNh5hulY
+**#Video: https://youtu.be/glJzNh5hulY**
 Contributing
 If you would like to contribute to the project, please follow the guidelines for contributing, which can be found in the CONTRIBUTING.md file in the repository. We welcome any bug reports, feature requests, or pull requests.
 
