@@ -44,13 +44,9 @@ Build the project for android and make sure you add all three scene is the below
   - Main Scene
   - About Scene
 Deploy the application to the Oculus Quest 2 device and launch it.
-<object width="425" height="350">
-  <param name="movie" value="Video: https://youtu.be/glJzNh5hulY" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/glJzNh5hulY"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+You can watch a demo of AI IN Metaverse on [YouTube](https://youtu.be/glJzNh5hulY).
+
+
 Additional Information:
 Feel free to add any additional information about the project in this section, such as credits to external libraries or contributors, licensing details, or acknowledgments for resources used in the project.
 
