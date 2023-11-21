@@ -1,6 +1,6 @@
 
 <h3>!!!Lost the project, <b>Backup is in <a href="https://github.com/desktop/desktop/issues/17218"/>Progress</b>!!!</h3>
-<h1>Title: AI in Metaverse Using ChatGPT</h1>
+<h1> AI in Metaverse Using ChatGPT</h1>
 Project Description:
 Project Overview
 This project is a Unity-based interactive application that utilizes the Oculus Quest 2 as its hardware device. The application has been built using the Unity platform and incorporates various packages from the Unity Store and Registry, such as the "Oculus Integration Package" and "Text Mesh Pro XR Development Kit."
